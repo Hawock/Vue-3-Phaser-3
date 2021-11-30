@@ -1,4 +1,4 @@
-# platformer-game
+# Vue 3 + Phaser 3
 
 ## Project setup
 ```
